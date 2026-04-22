@@ -1,6 +1,5 @@
-# CSBSJU Connect - MERN Conversion
+# CSBSJU Connect - MERN Stack
 
-This is a MERN conversion of your original prototype.
 
 ## Structure
 - `client/` - React + Vite + TypeScript frontend
@@ -29,8 +28,3 @@ npm run dev
 ## Deploy
 - Frontend: Netlify / Vercel
 - Backend: Render / Railway / Fly / VM
-
-## Notes
-- Your original app used localStorage.
-- This version moves auth, rides, and bookings to MongoDB.
-- The frontend still keeps the same overall page structure and styling.
