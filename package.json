@@ -1,0 +1,8 @@
+{
+  "name": "csbsju-connect-mern",
+  "private": true,
+  "scripts": {
+    "client": "cd client && npm run dev",
+    "server": "cd server && npm run dev"
+  }
+}
